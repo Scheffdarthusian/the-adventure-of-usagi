@@ -83,5 +83,5 @@ Special thanks to:
 - **パジャマパーティーズのうた (8bit arrange):** https://youtu.be/55C-gKYCbq8?si=ckGyL0BwqHZgLZy-
 - **ゲームボーイ版　ちいかわ　タイトル画面【チップチューンアレンジ「ひとりごつ」】:** https://youtu.be/mCBSjVvnYK4?si=jvlNvfYxQyGMIkG7
 
-- Additional online resources and blog posts that helped shape the architecture and design choices for this project.
-- Also: Claude AI
+- online resources and blog posts that helped shape the architecture and design choices for this project.
+- Also, Claude
