@@ -54,7 +54,7 @@ The project is built with object-oriented principles and emphasizes modularity a
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/TheAdventureOfUsagi.git](https://github.com/Scheffdarthusian/the-adventure-of-usagi.git)
+   git clone https://github.com/Scheffdarthusian/the-adventure-of-usagi.git
    ```
 2. Navigate to the project directory and open it in your favorite IDE.
 3. Run the main class:
