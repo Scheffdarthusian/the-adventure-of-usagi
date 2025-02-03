@@ -54,7 +54,7 @@ The project is built with object-oriented principles and emphasizes modularity a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TheAdventureOfUsagi.git
+   git clone https://github.com/Scheffdarthusian/the-adventure-of-usagi.git
    ```
 2. Navigate to the project directory and open it in your favorite IDE.
 3. Run the main class:
@@ -83,5 +83,5 @@ Special thanks to:
 - **パジャマパーティーズのうた (8bit arrange):** https://youtu.be/55C-gKYCbq8?si=ckGyL0BwqHZgLZy-
 - **ゲームボーイ版　ちいかわ　タイトル画面【チップチューンアレンジ「ひとりごつ」】:** https://youtu.be/mCBSjVvnYK4?si=jvlNvfYxQyGMIkG7
 
-- Additional online resources and blog posts that helped shape the architecture and design choices for this project.
-- Also: Claude AI
+- online resources and blog posts that helped shape the architecture and design choices for this project.
+- Also, Claude
